@@ -7,4 +7,12 @@ There are two tables:
 | Column | Type |	Notes |
 |--------|------|-------|
 | id     |INTEGER| Primary key|
+| name   | Text  | 
+| continent| Text|
+
+**population_years**
+| Column| Type| Notes|
+| id    | INTEGER| Primary Key|
+| population| NUMBER | (in millions)
+| 
 
