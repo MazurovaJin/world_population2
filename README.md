@@ -12,7 +12,9 @@ There are two tables:
 
 **population_years**
 | Column| Type| Notes|
+|-------|-----|------|
 | id    | INTEGER| Primary Key|
 | population| NUMBER | (in millions)
-| 
+| year | NUMBER|
+| country_id| Foreign Key |
 
